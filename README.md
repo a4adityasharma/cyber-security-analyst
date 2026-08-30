@@ -9,7 +9,7 @@ This repository contains all weekly projects, documentation, and technical deliv
 | Week | Module / Task | Status | Deliverables |
 | :--- | :--- | :---: | :--- |
 | **Week 1** | **Threat Landscape Analysis** | ✅ Completed | [View Report](./week-1-threat-landscape-analysis/) |
-| **Week 2** | Incident Response Plan Creation | ⏳ Pending | Coming soon |
+| **Week 2** | **Incident Response Plan Creation** | ✅ Completed | [View Plan & Triage Tool](./week-2-incident-response-plan/) |
 | **Week 3** | Security Policy Review | ⏳ Pending | Coming soon |
 | **Week 4** | Security Awareness Campaign Planning | ⏳ Pending | Coming soon |
 | **Week 5** | Vulnerability Assessment Report | ⏳ Pending | Coming soon |
