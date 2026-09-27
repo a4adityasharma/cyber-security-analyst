@@ -3,7 +3,7 @@
 
 | Field | Value |
 |---|---|
-| ** ** | Cybersecurity Audit Plan |
+| **Document Title** | Cybersecurity Audit Plan |
 | **Subject Organization** | Nimbus Retail Solutions (hypothetical, ~450 employees, e-commerce/retail) |
 | **Version** | 1.0 |
 | **Prepared By** | Aditya Sharma \| Yuva Intern Program |
