@@ -13,7 +13,7 @@ This repository contains all weekly projects, documentation, and technical deliv
 | **Week 3** | **Security Policy Review** | ✅ Completed | [View Policy Audit & Scanner](./week-3-security-policy-review/) |
 | **Week 4** | **Security Awareness Campaign Planning** | ✅ Completed | [View Campaign Plan & Analytics Tool](./week-4-security-awareness-campaign/) |
 | **Week 5** | **Vulnerability Assessment Report** | ✅ Completed | [View Vulnerability Report & Scanner](./week-5-vulnerability-assessment/) |
-| **Week ** | **Cybersecurity Audit Plan** | ✅ Completed | [View Cybersecurity Audit Plan](./week-6-cybersecurity-audit-plan/) |
+| **Week 6** | **Cybersecurity Audit Plan** | ✅ Completed | [View Cybersecurity Audit Plan](./week-6-cybersecurity-audit-plan/) |
 
 ---
 
