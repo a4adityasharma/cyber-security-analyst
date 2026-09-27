@@ -11,9 +11,9 @@ This repository contains all weekly projects, documentation, and technical deliv
 | **Week 1** | **Threat Landscape Analysis** | ✅ Completed | [View Report](./week-1-threat-landscape-analysis/) |
 | **Week 2** | **Incident Response Plan Creation** | ✅ Completed | [View Plan & Triage Tool](./week-2-incident-response-plan/) |
 | **Week 3** | **Security Policy Review** | ✅ Completed | [View Policy Audit & Scanner](./week-3-security-policy-review/) |
-| **Week 4** | Security Awareness Campaign Planning | ⏳ Pending | Coming soon |
-| **Week 5** | Vulnerability Assessment Report | ⏳ Pending | Coming soon |
-| **Week 6** | Cybersecurity Audit Plan | ⏳ Pending | Coming soon |
+| **Week 4** | **Security Awareness Campaign Planning** | ✅ Completed | [View Campaign Plan & Analytics Tool](./week-4-security-awareness-campaign/) |
+| **Week ** | **Vulnerability Assessment Report** | ✅ Completed | [View Vulnerability Report & Scanner](./week-5-vulnerability-assessment/) |
+| **Week ** | **Cybersecurity Audit Plan** | ✅ Completed | [View Cybersecurity Audit Plan](./week-6-cybersecurity-audit-plan/) |
 
 ---
 
